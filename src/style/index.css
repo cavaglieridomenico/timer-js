@@ -33,4 +33,5 @@ body {
 
 .timer__btn--stop {
   background-color: #ff0256;
+  padding-left: 12px;
 }
